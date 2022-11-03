@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @abishkarKoirala
-- 👀 I’m interested in backend
+- 👀 I’m interested in tech
 - 🌱 I’m currently learning django
 
 <!---
